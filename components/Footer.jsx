@@ -13,8 +13,37 @@ const Footer = () => {
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
           </h2>
         </div>
-        <div className={styles.card}></div>
-        <div className={styles.card}></div>
+        <div className={styles.card}>
+          <h1 className={styles.title}>FIND YOUR RESTAURANTS</h1>
+          <p className={styles.text}>
+            1456 av de goma R. Don Road #304.
+            <br /> New york, 85022
+            <br /> (4584) 894-10278
+          </p>
+          <p className={styles.text}>
+            1456 av de goma R. Don Road #304.
+            <br /> New york, 85022
+            <br /> (4584) 894-10278
+          </p>
+          <p className={styles.text}>
+            1456 av de goma R. Don Road #304.
+            <br /> New york, 85022
+            <br /> (4584) 894-10278
+          </p>
+        </div>
+        <div className={styles.card}>
+          <h1 className={styles.title}>WORKING HOURS</h1>
+          <p className={styles.text}>
+            1456 av de goma R. Don Road #304.
+            <br /> New york, 85022
+            <br /> (4584) 894-10278
+          </p>
+          <p className={styles.text}>
+            1456 av de goma R. Don Road #304.
+            <br /> New york, 85022
+            <br /> (4584) 894-10278
+          </p>
+        </div>
       </div>
     </div>
   );
