@@ -12,7 +12,7 @@ export default function Home({ pizzaList }) {
         <title> Pizza Restaurant in Newyork </title>{" "}
         <meta name="description" content="Best pizza shop in town" />
         <link rel="icon" href="/favicon.ico" />
-      </Head>{" "}
+      </Head>
       <Featured />
       <PizzaList pizzaList={pizzaList} />{" "}
     </div>

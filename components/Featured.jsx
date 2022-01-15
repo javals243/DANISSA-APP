@@ -13,9 +13,7 @@ const Featured = () => {
     }
     console.log(index);
   };
-  setTimeout(() => {
-    setindex(index + 1);
-  }, 1000);
+
   const images = ["/img/bg.png", "/img/pizza.png", "/img/bike.png"];
   return (
     <div className={styles.container}>

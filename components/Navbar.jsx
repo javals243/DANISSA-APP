@@ -22,7 +22,6 @@ const Navbar = () => {
           <li className={styles.listItem}> Home page </li>{" "}
           <li className={styles.listItem}> Products </li>{" "}
           <li className={styles.listItem}> Menu </li>{" "}
-          <Image src="/img/logo.png" alt="logo " width="69" height="39" />
           <li className={styles.listItem}> Events </li>{" "}
           <li className={styles.listItem}> Blog </li>{" "}
           <li className={styles.listItem}> Contact </li>{" "}
